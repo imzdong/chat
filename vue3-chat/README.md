@@ -63,3 +63,9 @@ Vue.volar ： Vue 3 官方推荐的 VS Code 开发插件；Vue.vscode-typescript
 * 编写代码规范，核心是用 TypeScript 这个强类型的语法，来减少 Vue 3 项目潜在的类型问题；
 * 代码格式规范，基于 VS Code 编辑器，用 ESLint 和 Prettier，规范和限制开发代码时的代码风格格式化和质量检查；
 * 代码质量检查，基于 ESLint 的 CLI 工具进行兜底检查，避免是用其它编辑器绕过 VS Code 的代码规范限制。
+
+### 使用less
+
+* npm install less less-loader（css）
+* npm install moment(时间库)
+* npm install -D stylus
